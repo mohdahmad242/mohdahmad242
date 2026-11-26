@@ -1,5 +1,5 @@
-### Hi 👋 I am Mohammad Ahmad
-### Connect with me - [mohdahmad.com](http://mohdahmad.com/)
+### Kuch Bhi
+
 
 <!--
 **ahmadkhan242/ahmadkhan242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
